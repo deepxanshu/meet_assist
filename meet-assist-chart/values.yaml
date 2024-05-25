@@ -1,0 +1,14 @@
+replicaCount: 1
+
+image:
+  repository: asia-south1-docker.pkg.dev/dev-stashfin/meet-assist/staging
+  tag: 0.0.6
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 80
+
+mapping:
+  hostname: "*"
+  prefix: "/meet-assist/"
