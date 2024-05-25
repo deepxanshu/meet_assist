@@ -71,16 +71,10 @@ If using Whisper for speech recognition or any other feature that requires it:
 
 ## Development
 
-To contribute to Meet Assist, create a branch from `main` and submit a pull request with your changes.
-
-## License
-
-Specify the license under which Meet Assist is released.
+To contribute to Meet Assist, create a branch from `master` and submit a pull request with your changes.
 
 ## Contact
 
-Provide contact information for users to report issues or seek support.
+Reach out to the deepanshuchaudharyy@gmail.com for any help or questions.
 
 ---
-
-For a detailed guide on each feature and configuration steps, refer to the documentation in the respective modules.
